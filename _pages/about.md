@@ -18,4 +18,3 @@ Feel free to contact me for anything. Thank you!
 
 Highlights
 ======
-

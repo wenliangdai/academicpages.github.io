@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wenliang DAI"
+title                    : "Wenliang Dai"
 title_separator          : "-"
-name                     : &name "Wenliang DAI"
+name                     : &name "Wenliang Dai"
 description              : &description "A second year PhD in NLP and Multimodal"
 url                      : https://wenliangdai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wenliang DAI"
+  name             : "Wenliang Dai"
   avatar           : "profile.png"
   bio              : "👨‍💻 PhD Candidate at HKUST"
   location         : "Hong Kong"
