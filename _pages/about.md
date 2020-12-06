@@ -14,7 +14,7 @@ My current research interests including the fields of Natural Language Processin
 
 Feel free to contact me for anything.
 
-Also, I'm looking for internship oppotunities in 2021 summer/fall.
+Also, I'm looking for internship oppotunities in 2021 Summer/Fall.
 
 Thank you!
 
