@@ -1,15 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Kungfupanda at SemEval-2020 Task 12: BERT-Based Multi-Task Learning for Offensive Language Detection"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://wenliangdai.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2020-07-20
+venue: 'SEMEVAL'
+paperurl: 'https://www.aclweb.org/anthology/2020.semeval-1.272/'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://wenliangdai.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
