@@ -103,7 +103,8 @@
   @include breakpoint($large) {
     display: flex;
     width: 100%;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
     padding-left: 0;
     padding-right: 0;
   }
