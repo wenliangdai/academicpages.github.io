@@ -12,11 +12,9 @@ I'm a second-year PhD student at the Electronic and Computer Engineering Departm
 
 My current research interests including the fields of Natural Language Processing (NLP), Multi-modality, Emotion Recognition, etc.
 
-Feel free to contact me for anything.
+**I'm looking for internship oppotunities in 2021 Summer/Fall.**
 
-Also, I'm looking for internship oppotunities in 2021 Summer/Fall.
-
-Thank you!
+Feel free to contact me for anything. Thank you!
 
 Highlights
 ======
