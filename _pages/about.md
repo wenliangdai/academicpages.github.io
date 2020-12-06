@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi"
+title: "Hi 🤗"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -12,7 +12,11 @@ I'm a second-year PhD student at the Electronic and Computer Engineering Departm
 
 My current research interests including the fields of Natural Language Processing (NLP), Multi-modality, Emotion Recognition, etc.
 
-Feel free to contact me if you have any questions. Also, I'm looking for internship oppotunities in 2021 summer/fall. Thank you!
+Feel free to contact me for anything.
+
+Also, I'm looking for internship oppotunities in 2021 summer/fall.
+
+Thank you!
 
 Highlights
 ======
