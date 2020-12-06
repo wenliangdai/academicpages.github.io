@@ -85,8 +85,8 @@ author:
   bio              : "Second-Year PhD in NLP and Multimodal"
   location         : "Hong Kong"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=-_xy3jAAAAAJ&hl=en"
   email            : wenliang.dai.1995@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Wenliang_Dai"
   vine             :
   weibo            :
   xing             :
