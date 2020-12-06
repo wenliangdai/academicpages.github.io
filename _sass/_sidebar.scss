@@ -101,8 +101,9 @@
   line-height: 1;
 
   @include breakpoint($large) {
-    display: block;
+    display: flex;
     width: 100%;
+    justify-content: center;
     padding-left: 0;
     padding-right: 0;
   }
