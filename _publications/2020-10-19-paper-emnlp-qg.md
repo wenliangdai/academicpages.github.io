@@ -9,5 +9,5 @@ authors: 'Dan Su, Yan Xu, Wenliang Dai, Ziwei Ji, Tiezheng Yu, Pascale Fung'
 code: 'https://github.com/HLTCHKUST/MulQG'
 paper: 'https://www.aclweb.org/anthology/2020.findings-emnlp.416/'
 image: 'emnlp_qg.png'
-show_year: true
+show_year: false
 ---
