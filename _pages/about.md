@@ -17,7 +17,7 @@ My current research interests including the fields of Natural Language Processin
 
 Feel free to contact me for anything. Thank you!
 
-<h2 style="margin-top:35px; border: none;">Highlights ✨</h2>
+<h1 style="margin-top:35px; border: none;">News</h1>
 <h3 style="margin-top:5px;">2020</h3>
 ------
 
