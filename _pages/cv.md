@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Wenliang's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+### [PDF](https://github.com/wenliangdai/wenliangdai.github.io/files/CV.pdf)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Education
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **BSc in Computer Science**, University of Nottingham <sub><sup>**(2013 - 2017)**</sup></sub>
+* **MSc in Data Science and Machine Learning**, University College London <sub><sup>**(2017 - 2018)**</sup></sub>
+* **PhD in ECE Department (AI, NLP)**, Hong Kong University of Science and Technology <sub><sup>**(2019 - Now)**</sup></sub>
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Work Experience
+
+* **University of Nottingham**: ***Research Assistant*** <sub><sup>**(2015.6 - 2015.8)**</sup></sub>
+  * My duties
+    * Data cleaning
+    * Building computing clusters
+    * Implementing NLP algorithms, etc.
+  * Supervisor: Eugene Ch'ng
+
+* **UBER**: ***Software Engineer Summer Intern*** <sub><sup>**(2016.6 - 2016.9)**</sup></sub>
+  * Web development with React.js, Node.js, MongoDB, etc.
+
+* **Qihoo 360**: ***Software Engineer Summer Intern*** <sub><sup>**(2017.6 - 2017.9)**</sup></sub>
+  * Web development with React.js, Vue.js, Node.js, etc.
+  * Products: Mobile Development Platform, ZCFY article translation site, etc.
+
+* **Tencent**: ***Software Engineer*** <sub><sup>**(2018.10 - 2019.7)**</sup></sub>
+  * In the WeChat department, mainly working on the DevTools for MiniPrograms.
+
+## Publications
+
+  See [HERE](https://wenliangdai.github.io/publications)
+
