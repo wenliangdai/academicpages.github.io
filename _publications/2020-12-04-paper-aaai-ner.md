@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-12-04
 venue: 'AAAI 2021'
 authors: 'Zihan Liu, Yan Xu, Tiezheng Yu, Wenliang Dai, Ziwei Ji, Samuel Cahyawijaya, Andrea Madotto, Pascale Fung'
-_code: 'https://github.com/wenliangdai/Modality-Transferable-MER'
-_paper: 'https://www.aclweb.org/anthology/2020.aacl-main.30/'
+code: 'https://github.com/zliucr/CrossNER'
+paper: 'https://arxiv.org/abs/2012.04373'
 show_year: true
 ---
