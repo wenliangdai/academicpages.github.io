@@ -3,6 +3,7 @@ layout: archive
 title: "Wenliang's CV"
 permalink: /cv/
 author_profile: true
+analytics: true
 redirect_from:
   - /resume
 ---
