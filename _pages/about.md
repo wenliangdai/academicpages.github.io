@@ -3,6 +3,7 @@ permalink: /
 title: "Hi there 🤗"
 excerpt: "About me"
 author_profile: true
+analytics: true
 redirect_from:
   - /about/
   - /about.html
