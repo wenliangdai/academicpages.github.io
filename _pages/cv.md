@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-### [PDF](https://github.com/wenliangdai/wenliangdai.github.io/files/CV.pdf)
+<!-- ### [PDF](/files/CV.pdf) -->
+
+<h3><a href="/files/CV.pdf" target="_blank" style="color: #424242; text-decoration: underline;">[PDF]</a></h3>
 
 ## Education
 
@@ -38,5 +40,5 @@ redirect_from:
 
 ## Publications
 
-  See [HERE](https://wenliangdai.github.io/publications)
+  See [HERE](/publications)
 
